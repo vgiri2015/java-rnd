@@ -1,0 +1,27 @@
+{
+  "type" : "record",
+  "name" : "CUSTOMER",
+  "doc" : "Sqoop import of CUSTOMER",
+  "fields" : [ {
+    "name" : "contactid",
+    "type" : [ "int", "null" ],
+    "columnName" : "contactid",
+    "sqlType" : "4"
+  }, {
+    "name" : "firstname",
+    "type" : [ "string", "null" ],
+    "columnName" : "firstname",
+    "sqlType" : "12"
+  }, {
+    "name" : "lastname",
+    "type" : [ "string", "null" ],
+    "columnName" : "lastname",
+    "sqlType" : "12"
+  }, {
+    "name" : "email",
+    "type" : [ "string", "null" ],
+    "columnName" : "email",
+    "sqlType" : "12"
+  } ],
+  "tableName" : "CUSTOMER"
+}

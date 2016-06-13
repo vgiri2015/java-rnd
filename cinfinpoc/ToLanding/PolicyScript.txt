@@ -1,0 +1,39 @@
+add jar hive-json-serde.jar;
+add jar json-serde-1.3-jar-with-dependencies.jar;
+
+--select cfxml1 from CINFIN_Claims lateral view explode(cfxml.claim[0]) mytable as cfxml1;
+
+CREATE TABLE CINFIN_Policy_Role( cfxml array<struct<id: string,Role:array<struct<parentId:string,parentType:string,kind:string,type:string,id:string,Property:array<struct<content:string,kind:string>>,Party:array<struct<content:string,ref:string>>,Place:array<struct<type:string,id:string,Property:array<struct<content:string,kind:string>>,Place:array<struct<kind:string,type:string,id:string,Property:array<struct<content:string,kind:string>>>>,ContactPoint:array<struct<kind:string,type:string,Property:array<struct<content:string,kind:string>>>>>>,Agreement:array<struct<content:string,ref:string>>,PhysicalObject:array<struct<type:string,Property:array<struct<content:string,kind:string>>>>>>>>)ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe' STORED AS TEXTFILE;
+
+===========================================================================================
+
+load data local inpath  'policy/outPOLICY_47883786.001.xml.json' into table CINFIN_Policy_Role;
+
+--References
+
+CREATE TABLE CINFIN_Policy_References( cfxml array<struct<id: string,References:array<struct<Party:array<struct<type:string,id:string,parentId:string,rootId:string,ContactPoint:array<struct<kind:string,type:string,Property:array<struct<content:string,kind:string>>>>,PartyDetail:array<struct<type:string,Property:array<struct<content:string,kind:string>>>>,PartyName:array<struct<kind:string,type:string,Property:array<struct<content:string,kind:string>>>>,Registration:array<struct<id:string,type:string,Property:array<struct<content:string,kind:string>>>>>>>>>>)ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe' STORED AS TEXTFILE;
+
+===========================================================================================
+
+load data local inpath  'policy/outPOLICY_47883786.001.xml.json' into table CINFIN_Policy_References;
+============================================================================================
+
+CREATE TABLE CINFIN_Policy_FinancialProvision( cfxml array<struct<id: string,FinancialProvision :array<struct<category:string,parentId:string,parentType:string,kind:string,type:string,id:string,subtype:string,Property:array<struct<content:string,kind:string>>>>>>)ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe' STORED AS TEXTFILE;
+
+===========================================================================================
+#Considering only Claim57983267.001.xml data
+
+load data local inpath  'policy/outPOLICY_47883786.001.xml.json' into table CINFIN_Policy_FinancialProvision;
+
+--Claim FinancialProvisionDeterminer data
+CREATE TABLE CINFIN_Policy_FinancialProvisionDet( cfxml array<struct<id: string,FinancialProvisionDeterminer :array<struct<category:string,parentId:string,parentType:string,kind:string,type:string,Property:array<struct<content:string,kind:string>>>>>>)ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe' STORED AS TEXTFILE;
+
+===========================================================================================
+#Considering only Claim57983267.001.xml data
+
+load data local inpath  'policy/outPOLICY_47883786.001.xml.json' into table CINFIN_Policy_FinancialProvisionDet;
+
+--Claim Agreement data
+CREATE TABLE CINFIN_Policy_Agreement( cfxml array<struct<id: string,Agreement:array<struct<rootId:string,parentId:string,parentType:string,kind:string,type:string,id:string,Property:array<struct<content:string,kind:string>>,Request:array<struct<kind:string,type:string,Property:array<struct<content:string,kind:string>>>>>>>>)ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe' STORED AS TEXTFILE;
+
+load data local inpath  'policy/outPOLICY_47883786.001.xml.json' into table CINFIN_Policy_Agreement;

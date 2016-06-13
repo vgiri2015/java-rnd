@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7ee860e-673f-420c-9d31-c2be15016618" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/3rdparty/metadata-extractor-2.7.2.jar" afterPath="$PROJECT_DIR$/hipi/3rdparty/metadata-extractor-2.7.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/3rdparty/xmpcore-5.1.2.jar" afterPath="$PROJECT_DIR$/hipi/3rdparty/xmpcore-5.1.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/0.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/1.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/2.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/3.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/ImageBundleTestCase/read/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/decode/canon-ixus.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/decode/canon-ixus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/decode/cmyk-jpeg-format.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/decode/cmyk-jpeg-format.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/canon-ixus.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/canon-ixus.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-dx10.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-dx10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-finepix40i.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-finepix40i.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-mx1700.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-mx1700.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-x100s.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/fujifilm-x100s.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/kodak-dc210.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/kodak-dc210.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/kodak-dc240.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/kodak-dc240.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/nikon-e950.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/nikon-e950.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/olympus-c960.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/olympus-c960.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/ricoh-rdc5300.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/ricoh-rdc5300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sanyo-vpcg250.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sanyo-vpcg250.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sanyo-vpcsx550.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sanyo-vpcsx550.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sony-cybershot.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sony-cybershot.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sony-d700.jpg" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/exif/sony-d700.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/truth/canon-ixus.ppm" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/truth/canon-ixus.ppm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/truth/cmyk-jpeg-format.ppm" afterPath="$PROJECT_DIR$/hipi/data/test/JPEGImageUtilTestCase/truth/cmyk-jpeg-format.ppm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/decode/canon-ixus.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/decode/canon-ixus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/decode/cmyk-jpeg-format.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/decode/cmyk-jpeg-format.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/canon-ixus.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/canon-ixus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/fujifilm-dx10.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/fujifilm-dx10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/fujifilm-finepix40i.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/fujifilm-finepix40i.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/fujifilm-mx1700.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/fujifilm-mx1700.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/kodak-dc210.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/kodak-dc210.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/kodak-dc240.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/kodak-dc240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/nikon-e950.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/nikon-e950.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/olympus-c960.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/olympus-c960.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/ricoh-rdc5300.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/ricoh-rdc5300.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sanyo-vpcg250.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sanyo-vpcg250.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sanyo-vpcsx550.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sanyo-vpcsx550.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sony-cybershot.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sony-cybershot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sony-d700.png" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/exif/sony-d700.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/truth/canon-ixus.ppm" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/truth/canon-ixus.ppm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/truth/cmyk-jpeg-format.ppm" afterPath="$PROJECT_DIR$/hipi/data/test/PNGImageUtilTestCase/truth/cmyk-jpeg-format.ppm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/resources/inherit.gif" afterPath="$PROJECT_DIR$/hipi/doc/api/resources/inherit.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/release/hipi-0.1.0.jar" afterPath="$PROJECT_DIR$/hipi/release/hipi-0.1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/release/hipi-2.0.jar" afterPath="$PROJECT_DIR$/hipi/release/hipi-2.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/.gitignore" afterPath="$PROJECT_DIR$/hipi/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/README.md" afterPath="$PROJECT_DIR$/hipi/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/build.xml" afterPath="$PROJECT_DIR$/hipi/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/allclasses-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/allclasses-noframe.html" afterPath="$PROJECT_DIR$/hipi/doc/api/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/constant-values.html" afterPath="$PROJECT_DIR$/hipi/doc/api/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/deprecated-list.html" afterPath="$PROJECT_DIR$/hipi/doc/api/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/help-doc.html" afterPath="$PROJECT_DIR$/hipi/doc/api/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/FloatImage.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/FloatImage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/ImageHeader.ImageType.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/ImageHeader.ImageType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/ImageHeader.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/ImageHeader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/ImageConverter.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/ImageConverter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/convert/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/CodecManager.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/CodecManager.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/ImageDecoder.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/ImageDecoder.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/ImageEncoder.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/ImageEncoder.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/JPEGImageUtil.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/JPEGImageUtil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/MetadataReader.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/MetadataReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/PNGImageUtil.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/PNGImageUtil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/PPMImageUtil.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/PPMImageUtil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/io/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/image/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/image/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/AbstractImageBundle.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/AbstractImageBundle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/HARImageBundle.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/HARImageBundle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/HipiImageBundle.FileReader.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/HipiImageBundle.FileReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/HipiImageBundle.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/HipiImageBundle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/SeqImageBundle.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/SeqImageBundle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/CullMapper.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/CullMapper.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/ImageBundleInputFormat.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/ImageBundleInputFormat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/ImageBundleRecordReader.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/ImageBundleRecordReader.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/BinaryOutputFormat.BinaryRecordWriter.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/BinaryOutputFormat.BinaryRecordWriter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/BinaryOutputFormat.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/BinaryOutputFormat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/output/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/mapreduce/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/imagebundle/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/CreateHipiImageBundle.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/CreateHipiImageBundle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/tool/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/AbstractImageBundleTestCase.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/AbstractImageBundleTestCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/AllTests.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/AllTests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/FloatImageTestCase.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/FloatImageTestCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/HARImageBundleTestCase.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/HARImageBundleTestCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/HipiImageBundleTestCase.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/HipiImageBundleTestCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/JPEGImageUtilTestCase.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/JPEGImageUtilTestCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/PNGImageUtilTestCase.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/PNGImageUtilTestCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/SeqImageBundleTestCase.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/SeqImageBundleTestCase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/unittest/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/util/ByteUtils.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/util/ByteUtils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/util/HARIndexContainerSorter.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/util/HARIndexContainerSorter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/util/package-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/util/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/util/package-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/util/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/hipi/util/package-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/hipi/util/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/index-all.html" afterPath="$PROJECT_DIR$/hipi/doc/api/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/index.html" afterPath="$PROJECT_DIR$/hipi/doc/api/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/overview-frame.html" afterPath="$PROJECT_DIR$/hipi/doc/api/overview-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/overview-summary.html" afterPath="$PROJECT_DIR$/hipi/doc/api/overview-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/overview-tree.html" afterPath="$PROJECT_DIR$/hipi/doc/api/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/package-list" afterPath="$PROJECT_DIR$/hipi/doc/api/package-list" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/doc/api/stylesheet.css" afterPath="$PROJECT_DIR$/hipi/doc/api/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/covariance/Covariance.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/covariance/Covariance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/createsequencefile/CreateSequenceFile.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/createsequencefile/CreateSequenceFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/downloader/Downloader.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/downloader/Downloader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/downloader/DownloaderInputFormat.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/downloader/DownloaderInputFormat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/downloader/DownloaderRecordReader.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/downloader/DownloaderRecordReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/dumphib/DumpHib.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/dumphib/DumpHib.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/jpegfromhib/JpegFromHib.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/jpegfromhib/JpegFromHib.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/jpegfromhib/JpegFromHibInputFormat.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/jpegfromhib/JpegFromHibInputFormat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/hipi/examples/jpegfromhib/JpegFromHibRecordReader.java" afterPath="$PROJECT_DIR$/hipi/examples/hipi/examples/jpegfromhib/JpegFromHibRecordReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/examples/testimages.txt" afterPath="$PROJECT_DIR$/hipi/examples/testimages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/build.xml" afterPath="$PROJECT_DIR$/hipi/libsrc/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/container/HARIndexContainer.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/container/HARIndexContainer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/container/Pair.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/container/Pair.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/FloatImage.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/FloatImage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/ImageHeader.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/ImageHeader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/convert/ImageConverter.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/convert/ImageConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/CodecManager.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/CodecManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/ImageDecoder.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/ImageDecoder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/ImageEncoder.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/ImageEncoder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/JPEGImageUtil.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/JPEGImageUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/MetadataReader.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/MetadataReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/PNGImageUtil.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/PNGImageUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/PPMImageUtil.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/image/io/PPMImageUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/AbstractImageBundle.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/AbstractImageBundle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/HARImageBundle.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/HARImageBundle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/HipiImageBundle.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/HipiImageBundle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/SeqImageBundle.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/SeqImageBundle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/CullMapper.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/CullMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/ImageBundleInputFormat.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/ImageBundleInputFormat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/ImageBundleRecordReader.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/ImageBundleRecordReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/output/BinaryOutputFormat.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/imagebundle/mapreduce/output/BinaryOutputFormat.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/tool/CreateHipiImageBundle.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/tool/CreateHipiImageBundle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/AbstractImageBundleTestCase.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/AbstractImageBundleTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/AllTests.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/AllTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/FloatImageTestCase.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/FloatImageTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/HARImageBundleTestCase.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/HARImageBundleTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/HipiImageBundleTestCase.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/HipiImageBundleTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/JPEGImageUtilTestCase.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/JPEGImageUtilTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/PNGImageUtilTestCase.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/PNGImageUtilTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/SeqImageBundleTestCase.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/unittest/SeqImageBundleTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/util/ByteUtils.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/util/ByteUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/libsrc/hipi/util/HARIndexContainerSorter.java" afterPath="$PROJECT_DIR$/hipi/libsrc/hipi/util/HARIndexContainerSorter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/license.txt" afterPath="$PROJECT_DIR$/hipi/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hipi/util/readFloatImage.m" afterPath="$PROJECT_DIR$/hipi/util/readFloatImage.m" />
+    </list>
+    <ignored path="java.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="java" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../python/pyspark-cassandra" value="1465076580000" />
+        <entry key="$PROJECT_DIR$/../python/pyspark-util" value="1465076057000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7ee860e-673f-420c-9d31-c2be15016618" name="Default" comment="" />
+      <created>1465851615487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465851615487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43314764" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44992846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
